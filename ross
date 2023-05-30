@@ -2,5 +2,11 @@ abc
 def
 ghi
 nhop
+<<<<<<< HEAD
 .................mno update..........
 lknn 
+=======
+mno
+lknn ----hello
+this is Akhila
+>>>>>>> trunk
